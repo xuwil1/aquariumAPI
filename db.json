@@ -1,0 +1,104 @@
+{
+   "fish": [
+    {
+        "id":0,
+        "name": "Betta",
+        "lifespan(years)": "2-5",
+        "min tank size(gallon)": 2,
+        "temperature(F) range": "75-80",
+        "pH": "6.5-7.5",
+        "hardness(dGH)": "3-4",
+        "care level": "Medium"
+    },
+    {
+        "id":1,
+        "name": "Goldfish",
+        "lifespan(years)": "10-15",
+        "min tank size(gallon)": 20,
+        "temperature(F) range": "68-75",
+        "pH": "7.0-8.4",
+        "hardness(dGH)": "2.7-6.7",
+        "care level": "Easy"
+    },
+    {
+        "id":2,
+        "name": "Angelfish",
+        "lifespan(years)": "10-12",
+        "min tank size(gallon)": 20,
+        "temperature(F) range": "75-82",
+        "pH": "6.8–7.0",
+        "hardness(dGH)": "4–12",
+        "care level": "Easy"
+    },
+    {
+        "id":3,
+        "name": "Plecostomus",
+        "lifespan(years)": "10-15",
+        "min tank size(gallon)": 30,
+        "temperature(F) range": "72-86",
+        "pH": "6.5–7.5",
+        "hardness(dGH)": "20–35",
+        "care level": "Easy"
+    },
+    {
+        "id":4,
+        "name": "Guppies",
+        "lifespan(years)": "2-3",
+        "min tank size(gallon)": 5,
+        "temperature(F) range": "74-82",
+        "pH": "6.8–7.6",
+        "hardness(dGH)": "8–12",
+        "care level": "Easy"
+    },
+    {
+        "id":5,
+        "name": "Mollies",
+        "lifespan(years)": "3-5",
+        "min tank size(gallon)": 10,
+        "temperature(F) range": "72-78",
+        "pH": "7.5-8.5",
+        "hardness(dGH)": "15-30",
+        "care level": "Easy"
+    },
+    {
+        "id":6,
+        "name": "Neon Tetras",
+        "lifespan(years)": "6-8",
+        "min tank size(gallon)": 10,
+        "temperature(F) range": "70-81",
+        "pH": "6.0-7.0",
+        "hardness(dGH)": "2-10",
+        "care level": "Easy"
+    },
+    {
+        "id":7,
+        "name": "Platies",
+        "lifespan(years)": "2-3",
+        "min tank size(gallon)": 10,
+        "temperature(F) range": "70–77",
+        "pH": "6.8–8.0",
+        "hardness(dGH)": "10–28",
+        "care level": "Easy"
+    },
+    {
+        "id":8,
+        "name": "Swordtails",
+        "lifespan(years)": "3–5",
+        "min tank size(gallon)": 15,
+        "temperature(F) range": "64–82",
+        "pH": "7.0–8.4",
+        "hardness(dGH)": "12-30",
+        "care level": "Easy"
+    },
+    {
+        "id":9,
+        "name": "Zebra Danios",
+        "lifespan(years)": "3-5",
+        "min tank size(gallon)": 10,
+        "temperature(F) range": "64-77",
+        "pH": "6.8-8.0",
+        "hardness(dGH)": "15-19",
+        "care level": "Easy"
+    }
+   ] 
+}
